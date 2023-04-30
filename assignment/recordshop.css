@@ -1,19 +1,16 @@
-header{
-    background-color: blue;
-    text-align: center;
+header {
+  background-color: blue;
+  text-align: center;
+  color: bisque;
 }
-h1{
-    color: aqua;
-}
-h2{
-    color: rgb(209, 183, 233);
-}
-main{
-    background-color: rgb(123, 123, 117);
 
+main {
+  background-color: rgb(123, 123, 117);
+  padding: 1em;
 }
-body{
-    background-image: url(record.png);
-    background-size: auto;
-    background-repeat: repeat;
+body {
+  background-image: url(record.png);
+  background-size: auto;
+  background-repeat: repeat;
+  margin: 0;
 }
