@@ -10,5 +10,10 @@ h2{
 }
 main{
     background-color: rgb(123, 123, 117);
+
+}
+body{
     background-image: url(record.png);
+    background-size: auto;
+    background-repeat: repeat;
 }
